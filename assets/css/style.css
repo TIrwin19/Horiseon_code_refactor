@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Changed corrosponding element tags to match the index.html */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,7 +40,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* END */
 a {
     color: #ffffff;
     text-decoration: none;
